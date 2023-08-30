@@ -365,6 +365,14 @@ body {
   height: 100%;
   object-fit: cover;
 }
+
+.tab-content:not(.active) {
+  display: none;
+}
+
+.section-title {
+  margin-block-end: 16px;
+}
 /*-----------------------------------*\
   #COMPONENT
 \*-----------------------------------*/
