@@ -784,3 +784,17 @@ padding-block-end: 24px;
   margin-block-end: 16px;
   border-radius: var(--radius-medium);
 }
+
+/*-----------------------------------*\
+  #FOOTER
+\*-----------------------------------*/
+
+.footer .container{
+  text-align: center;
+  padding: 16px;
+  border-block-start: 1px solid var(--outline-variant);
+}
+
+/*-----------------------------------*\
+  #MEDIA QUERY
+\*-----------------------------------*/
